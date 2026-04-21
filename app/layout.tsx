@@ -49,6 +49,7 @@ const analyticsScript = `
   });
 `;
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -72,14 +73,11 @@ export default function RootLayout({
 					}}
 				/>
 				{/* Google Search Console */}
-				<meta
-					name='google-site-verification'
-					content='XXXXXXXXXXXXXX' // Replace with your Google Search Console verification code
-				/>
+				<meta name="google-site-verification" content="lcWNq5sbJidtbk-vnWu4DI1u3AOvJL0X_N364jyTjjU" />
 				{/* AdSense */}
 				<Script
 					strategy='afterInteractive'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX' // Replace with your AdSense ID
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890252806430455' // Replace with your AdSense ID
 					crossOrigin='anonymous'
 				/>
       </head>
