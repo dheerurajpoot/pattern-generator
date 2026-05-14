@@ -77,7 +77,7 @@ export default function RootLayout({
 				{/* AdSense */}
 				<Script
 					strategy='afterInteractive'
-					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7890252806430455' // Replace with your AdSense ID
+					src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8483900517456305' // Replace with your AdSense ID
 					crossOrigin='anonymous'
 				/>
       </head>

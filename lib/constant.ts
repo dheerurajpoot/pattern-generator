@@ -1,7 +1,7 @@
 export const SITE_URL = "https://evkes.com";
-export const SITE_NAME = "PatternGenerator";
-export const SITE_TITLE = "PatternGenerator";
+export const SITE_NAME = "EVKES";
+export const SITE_TITLE = "EVKES | Your Creative Platform";
 export const SITE_DESCRIPTION =
-	"Free online pattern generator. Generate patterns, create designs, and share your creations.";
-export const SITE_AUTHOR = "Deelzo";
+	"EVKES is a platform for creatives. Generate patterns, create designs, and share your creations.";
+export const SITE_AUTHOR = "EVKES";
 export const SITE_EMAIL = "amitkumarteam90@gmail.com";
